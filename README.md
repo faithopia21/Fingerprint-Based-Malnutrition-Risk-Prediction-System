@@ -6,7 +6,7 @@ A desktop application for early malnutrition risk screening, developed as an und
 
 ## The Problem
 
-Malnutrition remains a serious public health challenge in low-resource settings, particularly in sub-Saharan Africa. One in three children under five in the region experiences stunting due to chronic undernutrition. Early detection is critical, but traditional methods — comparing weight to height, measuring mid-upper arm circumference- require trained personnel and equipment that are often unavailable in community settings.
+Malnutrition remains a serious public health challenge in low-resource settings, particularly in sub-Saharan Africa. One in three children under five in the region experiences stunting due to chronic undernutrition. Early detection is critical, but traditional methods — comparing weight to height, measuring mid-upper arm circumference — require trained personnel and equipment that are often unavailable in community settings.
 
 This project explores a different question: can fingerprint biometric features, which are non-invasive and require only a scanner, carry enough predictive signal to support early malnutrition screening?
 
